@@ -1,0 +1,23 @@
+form{
+    width: 40%;
+
+    margin: auto;
+}
+
+#sub
+{
+    background-color: black;
+    color: white;
+    height: 50px;
+    font-size: 20px;
+
+}
+
+#sub:hover
+{
+    background-color: red;
+    color: black;
+    height: 50px;
+    font-size: 20px;
+
+}
